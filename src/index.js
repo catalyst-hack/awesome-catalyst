@@ -20,6 +20,7 @@ function compilePage(route) {
 function build() {
     log('Copying media')
     spawn('cp', ['-r', 'media', './dist/.'])
+    spawn('mkdir', ['dist'])
     readdir('pages', (err, pages) => {
         if (err) { error(err) }
         pages.forEach(compilePage)
