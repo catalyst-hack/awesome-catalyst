@@ -27,7 +27,7 @@ An awesome list is a list of links to useful and generally awesome resources.
 
 ## Assets
 
-- [Kenney](https://www.kenney.nl/) Game sprites and sounds
+- [Kenney](https://www.kenney.nl/) Game sprites and sounds effects
 
 ## 📚 Libraries
 
