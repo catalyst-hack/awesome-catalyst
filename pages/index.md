@@ -8,8 +8,10 @@ An awesome list is a list of links to useful and generally awesome resources.
 
 ## 🏠 HouseKeeping
 
+- [This is my first hackathon](/intro)
 - [Website](https://www.catalysthack.com/)
 - [Code of conduct]()
+- [Frequently asked questions](/faq)
 
 ## 🔨 Tools
 
@@ -22,6 +24,10 @@ An awesome list is a list of links to useful and generally awesome resources.
 
 - [GitHub](https://github.com)
 - [GitHub Student pack](https://education.github.com/pack) Students only*
+
+## Assets
+
+- [Kenney](https://www.kenney.nl/) Game sprites and sounds
 
 ## 📚 Libraries
 
