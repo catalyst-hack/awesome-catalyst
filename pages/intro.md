@@ -1,5 +1,7 @@
 # 😱 This is my first hackathon
 
+[go back](/)
+
 If this is your first hackathon, don't worry, be happy 😄!
 
 ## 🥇Steps to success

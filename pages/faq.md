@@ -1,5 +1,7 @@
 # ❓Frequently asked questions
 
+[go back](/)
+
 ## 🆘 What if I don't have a team?
 
 Don't worry, just get try to get to the venue early and meet some of the hackers! We will also be running our team building session at 10:15.
