@@ -46,9 +46,3 @@ An awesome list is a list of links to useful and generally awesome resources.
 - [AWS](https://aws.amazon.com/)
 - [Azure](https://azure.microsoft.com/en-gb/)
 - [GCP](https://cloud.google.com/)
-
-hey I have some resources that we could add too : Python game libraries:
-
-Free assets:
-
-low code:
