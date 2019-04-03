@@ -24,7 +24,7 @@ describe('Markdown', () => {
                     const links = txt.match(/(https?:\/\/[^\s]+)/g).map(a => a.replace(')', ''))
                     links.forEach((link) => {
                         describe(`Fetching ${link}`, function () {
-                            this.slow(2000)
+                            this.slow(5000)
                             it('should return status code > 400', (done) => {
                                 fetch(link)
                                     .then((resp) => {
