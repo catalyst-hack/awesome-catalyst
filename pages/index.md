@@ -33,6 +33,7 @@ An awesome list is a list of links to useful and generally awesome resources.
 - [Kenney](https://www.kenney.nl/) Game sprites and sounds effects
 - [Unity asset store](https://assetstore.unity.com/lists/free-assets-34756)
 - [Unreal asset store](https://www.unrealengine.com/marketplace/en-US/free)
+- [Free Catalyst Hack Music](/music)
 
 ## 📚 Libraries
 
