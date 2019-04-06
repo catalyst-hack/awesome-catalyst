@@ -8,7 +8,7 @@ Don't worry, just get try to get to the venue early and meet some of the hackers
 
 ## 📝 How should I prepare?
 
-You don't need to prepare, a Hackathon is a learning experience but if you have an idea or you can't wait to start, check our [first hack page!](/first_hack)
+You don't need to prepare, a Hackathon is a learning experience but if you have an idea or you can't wait to start, check our [first hack page!](/intro)
 
 ## 👩‍💻 I don't know how to code!
 
