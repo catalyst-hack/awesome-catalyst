@@ -21,10 +21,11 @@ describe('Markdown', () => {
                 describe(`Testing links in ${page}`, () => {
                     if (err) { throw err }
                     const txt = content.toString()
-                    const links = txt.match(/(https?:\/\/[^\s]+)/g).map(a => a.replace(')', ''))
+                    const rawLinks = txt.match(/(https?:\/\/[^\s]+)/g) || []
+                    const links = rawLinks.map(a => a.replace(')', ''))
                     links.forEach((link) => {
                         describe(`Fetching ${link}`, function () {
-                            this.slow(5000)
+                            this.slow(10000)
                             it('should return status code > 400', (done) => {
                                 fetch(link)
                                     .then((resp) => {
