@@ -15,9 +15,9 @@ describe('Pages', () => {
 
 // Fetch all files to test
 describe('Markdown', () => {
-    const pages = readdir('./pages', (err, pages) => {
+    const pages = readdir('./pages', function (err, pages) {
         for (page of pages) {
-            readFile('./pages/' + page, (err, content) => {
+            readFile('./pages/' + page, function (err, content) {
                 describe(`Testing links in ${page}`, () => {
                     if (err) { throw err }
                     const txt = content.toString()
@@ -25,8 +25,9 @@ describe('Markdown', () => {
                     const links = rawLinks.map(a => a.replace(')', ''))
                     links.forEach((link) => {
                         describe(`Fetching ${link}`, function () {
-                            this.slow(10000)
-                            it('should return status code > 400', (done) => {
+                            this.slow(2500)
+                            this.timeout(10 * 1000)
+                            it('should return status code > 400', function (done) {
                                 fetch(link)
                                     .then((resp) => {
                                         // log(link)
