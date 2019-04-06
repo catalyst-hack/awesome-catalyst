@@ -11,6 +11,7 @@ An awesome list is a list of links to useful and generally awesome resources.
 - [This is my first hackathon](/intro)
 - [Website](https://www.catalysthack.com/)
 - [Code of conduct](https://www.catalysthack.com/codeofconduct/)
+- [Challenges](/challenges)
 - [Frequently asked questions](/faq)
 
 ## 🔨 Tools

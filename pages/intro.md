@@ -27,3 +27,5 @@ Focus on what you want to achieve, but be realistic! Your progress is gonna shap
 We want to see your creative side, not your perfectionist one, so... whatever works! What you present doesn't need to be perfect and it's totally fine if it only works on your laptop.
 
 P.S. Coffee ☕️ and StackOverflow are gonna be your best friends for these 24 hours so make the most of them!
+
+[go back](/)
